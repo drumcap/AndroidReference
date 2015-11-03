@@ -1,0 +1,25 @@
+# Site settings
+title: Mr drumcap
+email: drumcap@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  모바일 프로그래밍, 웹 프론트엔드 프로그래밍 관련 기술, 그리고 IT 잡담을 이야기하는 drumcap 블로그 입니다. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://drumcap.github.io" # the base hostname & protocol for your site
+twitter_username: drummeryun
+github_username:  drumcap
+facebook_username: drumcap
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "autolink", "fenced_code_blocks", "strikethrough"]
+
+highlighter: pygments
+permalink: pretty
+
+safe: true
+lsi: true
+
+gems:
+  - jekyll-redirect-from
+  - jemoji
