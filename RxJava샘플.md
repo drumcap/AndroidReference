@@ -21,3 +21,5 @@
 5. Grokking RxJava, Part 2: Operator, Operator : http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/
 6. Grokking RxJava, Part 3: Reactive with Benefits: http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/
 7. Grokking RxJava, Part 4: Reactive Android : http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/
+8. Party tricks with RxJava, RxAndroid & Retrolambda : https://medium.com/swlh/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c
+9. Introduction to Retrofit and RxJava : http://fabiocollini.github.io/IntroToRetrofitRxJava/
